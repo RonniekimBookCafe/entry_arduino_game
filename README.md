@@ -29,84 +29,84 @@
 - 게임 이해하기
 - 구조 이해하기
 - 함수 블록 코딩하기
-- 게임 동작 확인
+- [게임 동작 확인](https://youtu.be/8B8E3ZA1foE)
 - 생각하기
 
 ### [3장 그루터기 건너기 게임 만들기](https://blog.naver.com/ronniekim486/223139179055)
 - 게임 이해하기
 - 구조 이해하기
 - 함수 블록 코딩하기
-- 게임 동작 확인
+- [게임 동작 확인](https://youtu.be/f_AWJVPeT2I)
 - 생각하기
 
 ### [4장 벽돌 깨기 게임 만들기](https://blog.naver.com/ronniekim486/2231392371)
 - 게임 이해하기
 - 구조 이해하기
 - 함수 블록 코딩하기
-- 게임 동작 확인
+- [게임 동작 확인](https://youtu.be/8HtXQCToawo)
 - 생각하기
 
 ### [5장 선물 뽑기 게임 만들기](https://blog.naver.com/ronniekim486/223139237161) 
 - 게임 이해하기
 - 구조 이해하기
 - 함수 블록 코딩하기
-- 게임 동작 확인
+- [게임 동작 확인](https://youtu.be/cVmLgn7iPtw)
 - 생각하기
 
 ### [6장 타조 런 게임 만들기](https://blog.naver.com/ronniekim486/223139351600)
 - 게임 이해하기
 - 구조 이해하기
 - 함수 블록 코딩하기
-- 게임 동작 확인
+- [게임 동작 확인](https://youtu.be/xwhty-bmMhY)
 - 생각하기
 
 ### [7장 지렁이 키우기 게임 만들기](https://blog.naver.com/ronniekim486/223140441282)
 - 게임 이해하기
 - 구조 이해하기
 - 함수 블록 코딩하기
-- 게임 동작 확인
+- [게임 동작 확인](https://youtu.be/M-_dXZMyLIg)
 - 생각하기
 
 ### [8장 에어 하키 게임 만들기](https://blog.naver.com/ronniekim486/223140487836)
 - 게임 이해하기
 - 구조 이해하기
 - 함수 블록 코딩하기
-- 게임 동작 확인
+- [게임 동작 확인](https://youtu.be/WP067Hv8K0M)
 - 생각하기
 
 ### [9장 롤링 스카이 게임 만들기](https://blog.naver.com/ronniekim486/223140504863)
 - 게임 이해하기
 - 구조 이해하기
 - 함수 블록 코딩하기
-- 게임 동작 확인
+- [게임 동작 확인](https://youtu.be/xR3Lg3qUYe0)
 - 생각하기
 
 ### [10장 드래곤 슈팅 게임 만들기](https://blog.naver.com/ronniekim486/223141564135)
 - 게임 이해하기
 - 구조 이해하기
 - 함수 블록 코딩하기
-- 게임 동작 확인
+- [게임 동작 확인](https://youtu.be/mYps5H4z66w)
 - 생각하기
 
 ### [11장 몬스터 슈팅 게임 만들기](https://blog.naver.com/ronniekim486/223141574273)
 - 게임 이해하기
 - 구조 이해하기
 - 함수 블록 코딩하기
-- 게임 동작 확인
+- [게임 동작 확인](https://youtu.be/RyHz8XyYixo)
 - 생각하기
 
 ### [12장 바다에 쓰레기가 떨어지면 슈팅 게임 만들기](https://blog.naver.com/ronniekim486/223141582074)
 - 게임 이해하기
 - 구조 이해하기
 - 함수 블록 코딩하기
-- 게임 동작 확인
+- [게임 동작 확인](https://youtu.be/8kaVPkFkCE0)
 - 생각하기
 
 ### [13장 해적선 맞추기 게임 만들기](https://blog.naver.com/ronniekim486/223141589559)
 - 게임 이해하기
 - 구조 이해하기
 - 함수 블록 코딩하기
-- 게임 동작 확인
+- [게임 동작 확인](https://youtu.be/Jmk_jOpVKSk)
 - 생각하기
 
 
