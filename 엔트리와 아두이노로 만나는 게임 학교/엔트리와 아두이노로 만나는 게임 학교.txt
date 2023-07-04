@@ -1,0 +1,59 @@
+[ 엔트리와 아두이노로 만나는 게임 학교 ] 
+
+-----------------------------------------------------------------------------
+■ 네이버 도서
+https://search.shopping.naver.com/book/catalog/40705428620
+
+-----------------------------------------------------------------------------
+■ 네이버 블로그 및 유튜브 실행 동영상 
+▷ 1장_엔트리×아두이노 게임 만들기  
+    ▶ 블로그 :  https://blog.naver.com/ronniekim486/223137511459
+
+▷ 2장_메모리 버튼 게임 만들기  
+    ▶ 블로그 : https://blog.naver.com/ronniekim486/223137571229
+    ▶ 유튜브 : https://youtu.be/8B8E3ZA1foE
+
+▷ 3장_그루터기 건너기 게임 만들기
+    ▶ 블로그 : https://blog.naver.com/ronniekim486/223139179055
+    ▶ 유튜브 : https://youtu.be/f_AWJVPeT2I
+
+▷ 4장_벽돌 깨기 게임 만들기 
+    ▶ 블로그 : https://blog.naver.com/ronniekim486/223139201204
+    ▶ 유튜브 : https://youtu.be/8HtXQCToawo
+
+▷ 5장_선물 뽑기 게임 만들기
+    ▶ 블로그 : https://blog.naver.com/ronniekim486/223139237161
+    ▶ 유튜브 : https://youtu.be/cVmLgn7iPtw
+
+▷ 6장_타조 런 게임 만들기
+    ▶ 블로그 : https://blog.naver.com/ronniekim486/223139351600
+    ▶ 유튜브 : https://youtu.be/xwhty-bmMhY
+
+▷ 7장_지렁이 키우기 게임 만들기
+    ▶ 블로그 : https://blog.naver.com/ronniekim486/223140441282
+    ▶ 유튜브 : https://youtu.be/M-_dXZMyLIg
+
+▷ 8장_에어 하키 게임 만들기
+    ▶ 블로그 : https://blog.naver.com/ronniekim486/223140487836
+    ▶ 유튜브 : https://youtu.be/WP067Hv8K0M
+
+▷ 9장_롤링 스카이 게임 만들기 
+    ▶ 블로그 : https://blog.naver.com/ronniekim486/223140504863
+    ▶ 유튜브 : https://youtu.be/xR3Lg3qUYe0
+
+▷ 10장_드래곤 슈팅 게임 만들기  
+    ▶ 블로그 : https://blog.naver.com/ronniekim486/223141564135
+    ▶ 유튜브 : https://youtu.be/mYps5H4z66w
+
+▷ 11장_몬스터 슈팅 게임 만들기
+    ▶ 블로그 : https://blog.naver.com/ronniekim486/223141574273
+    ▶ 유튜브 : https://youtu.be/RyHz8XyYixo
+
+▷ 12장_바다에 쓰레기가 떨어지면 슈팅 게임 만들기 
+    ▶ 블로그 : https://blog.naver.com/ronniekim486/223141582074
+    ▶ 유튜브 : https://youtu.be/8kaVPkFkCE0
+
+▷ 13장_해적선 맞추기 게임 만들기
+    ▶ 블로그 : https://blog.naver.com/ronniekim486/223141589559
+    ▶ 유튜브 : https://youtu.be/Jmk_jOpVKSk
+
